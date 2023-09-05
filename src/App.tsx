@@ -15,7 +15,7 @@ function App() {
 
   return (
       <Container fluid>
-        <h1>Google Translate</h1>
+        <h1>Google Translate !</h1>
         
         <Row>
           <Col>
